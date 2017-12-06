@@ -1,6 +1,6 @@
 # gulpを使った自分用環境構築
 
-## 作環境
+## 制作環境
 
 * MacbookPro 2017 15インチ
 * Editor VSCode
